@@ -1,0 +1,12 @@
+{
+  "name": "KaderAssignment",
+  "displayName": "KaderAssignment",
+  "expo": {
+    "name": "KaderAssignment",
+    "slug": "KaderAssignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
