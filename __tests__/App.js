@@ -1,10 +1,11 @@
 import 'react-native';
 import React from 'react';
-import App from '../App.tsx';
+import Root from '../root';
 
 // Note: test renderer must be required after react-native.
 import renderer from 'react-test-renderer';
 
+// Pass
 it('renders correctly', () => {
-  renderer.create(<App />);
+  renderer.create(<Root />);
 });
